@@ -1,0 +1,81 @@
+.card{
+  border: 1px solid rgb(151, 144, 144);
+  border-radius: 10px;
+  width: 168px;
+  box-shadow: 5px 5px 5px rgba(54, 54, 54, 0.747);
+  margin: 10px;
+  padding: 21px;
+  background-color: rgb(223, 219, 201);
+  text-align: center;
+
+  
+} 
+
+.image {
+  border-radius: 75px ;
+  width: 150px;
+  height: 150px; 
+}
+
+.card .title{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: larger;
+  color: #4b1919;
+}
+
+.message {
+  font-family: 'Times New Roman', Times, serif;
+  margin: 0;
+  color: #614c4c;
+}
+
+.welcome-message{
+  text-shadow: #614c4c;
+  padding: 10px;
+  background-color: rgb(0, 255, 115);
+  text-align: center;
+  margin: 0%;
+  border-radius: 5px;
+  color: rgb(255, 255, 255);
+}
+
+.login-prompt{
+  text-shadow: #614c4c;
+  padding: 10px;
+  background-color: rgb(136, 5, 5);
+  text-align: center; 
+  margin: 0%;
+  border-radius: 0%;
+  color: #ffffff;
+}
+
+
+.count-container{
+  text-align: center;
+  font-size: 2.5em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.count-display{
+  font-size: 2.5em;
+  margin-top: 0%;
+  margin-bottom: 50px;
+}
+
+.counter-button{
+  height: 50px;
+  width: 150px;
+  font-weight: bold;
+  margin: 0px 5px;
+  background-color: aqua;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.counter-button.hover{
+  background-color: rgb(96, 129, 129);
+}
+
