@@ -1,0 +1,8 @@
+certifi
+chardet
+filestack-python
+fpdf
+idna
+requests
+trafaret
+urllib3
